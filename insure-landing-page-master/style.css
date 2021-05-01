@@ -263,6 +263,7 @@ footer{
 }
 
 @media screen and (max-width:768px){
+
     .header{
         z-index: 10;
     }
@@ -336,16 +337,15 @@ footer{
     }
 
     .features{
-        flex-direction: column;
-        
+        flex-direction: column; 
     }
 
     .features div{
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 350px;
-        margin-left: 20px;
+        /* width: 350px; */
+        margin-left: 0;
     }
 
     .features div p{
