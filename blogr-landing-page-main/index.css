@@ -431,5 +431,10 @@ button{
     .justify div h2{
         margin: 3px 0;
     }
+
+
+    html,body{
+        overflow-x: hidden;
+    }
     
 }

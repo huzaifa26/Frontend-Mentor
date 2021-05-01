@@ -398,6 +398,10 @@ header{
 
 
   @media screen and (max-width:768px){
+    html,body{
+        overflow-x: hidden;
+    }
+
     .grid,
     .showcase .grid,
     .cloud .grid,

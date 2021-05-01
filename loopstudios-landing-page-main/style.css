@@ -280,7 +280,6 @@ footer .container{
 }
 
 .footsec1{
-    /* background-color: darkolivegreen; */
     width: 99.5%;
 }
 
@@ -298,12 +297,9 @@ footer .container{
 .fa-2x{
     font-size: 1em !important;
 }
-
-.container{
-    /* width: 100%; */
-    /* background-color: darkmagenta; */
+html,body{
+    overflow-x: hidden;
 }
-
 
 
 }
